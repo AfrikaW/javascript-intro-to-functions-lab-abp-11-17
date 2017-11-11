@@ -10,4 +10,3 @@ const string = 'Hello'
 function logShout(string) {
   console.log('string');
 }
-
